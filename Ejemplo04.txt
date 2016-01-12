@@ -1,0 +1,18 @@
+Ejemplo 04
+*Algoritmos
+
+Desarrollar un algoritmo que permita a una
+empresa producir hamburguesas de manera estándar tomando 
+en cuenta que llevan un pan 20gr de lechuga, 3 rodajas de tomate  
+y una placa de carne. Primero va la lechuga, 
+luego la carne y finalmente los tomates. 
+Sobre estos debe ponerse mayonesa
+
+1.Iniciar
+2.Coger el pan
+3.Cortar el pan
+4.Agregar 20gr de lechuga
+6.Agregar una placa de carne
+5.Agregar 3 rodajas de tomates
+7.Poner cremas encima de los tomates
+8.Terminar

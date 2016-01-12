@@ -1,0 +1,17 @@
+Ejemplo 03
+*Algoritmos
+
+En la taquilla de una sala de cine, se pide la identificación de los usuarios,
+se verifica si es mayor de edad (mayores 18 años) si es así se cobra el valor 
+de la entrada y se deja pasar, en caso contrario no se deja entrar.
+
+1.Inicio
+2.Pedir DNI al usuario
+3.Verificar el DNI para saber si es mayor de edad (18+)
+4.Si es mayor de 18 años
+	4.1.Cobrar valor de la entrada
+	4.2.Dejar pasar al usuario
+En caso contrario
+	4.1.Devolver DNI
+	.2.Restringir ingreso al usuario
+5.Terminar

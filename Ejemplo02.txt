@@ -1,0 +1,17 @@
+Ejemplo 01
+*Algoritmos
+
+Un cliente llega a una entidad bancaria para realizar un depósito, 
+el cajero le pide el número de la cuenta y el dinero a depositar, 
+verifica que la cuenta si existe, si la cuenta es válida se hace el depósito 
+(al saldo le aumenta el dinero recibido) de lo contrario devuelve el dinero
+
+1.Inicio
+2.Pedir número de cuenta y el dinero a depositar
+3.Verfica la cuenta
+4.Si la cuenta es valida
+4.1.Se hace el deposito
+4.2.Se aumenta le aumenta el dinero a depositar al saldo actual
+De lo contrario
+4.1.Se devuelve el dinero
+5.Terminar

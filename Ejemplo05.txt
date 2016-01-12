@@ -1,0 +1,18 @@
+Ejemplo 05
+*Algoritmos
+
+Desarrollar un algoritmo para estandarizar
+el proceso para el cambio de llanta para los
+mecánicos que prestan servicio a conductores suscritos 
+en el programa de seguro de Acuña Seguros S.A.
+
+1.Iniciar
+2.Pedir codigo de conductor
+3.Verificar si esta suscrito
+4.Si esta suscrito
+	4.1.Proceder al cambio de llantas
+		4.1.1.Retirar las llantas a cambiar del auto
+		4.1.2.Poner las nuevas llantas al auto
+En caso contrario
+	4.1.Negar el cambio de llantas
+5.Terminar

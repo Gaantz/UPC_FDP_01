@@ -1,0 +1,13 @@
+Ejemplo 01
+*Algoritmos
+
+Un cliente ejecuta un pedido a una fábrica. 
+El operario de la fábrica examina en su banco de datos si el cliente esta activo 
+no es moroso con sus deudas) entonces se acepta el pedido, 
+en caso contrario se rechaza.
+
+1.Inicio
+2. Leer el pedido
+3. Examinar la ficha del cliente en el banco de datos.
+4. Si el cliente está activo aceptar el pedido, en caso contrario rechazar el pedido.
+5. Terminar
